@@ -6,6 +6,10 @@
 
 This is a simple login and registration page using php and mysql.
 
+## Database Structure
+
+![Database Structure](https://github.com/antilneeraj/Authenticator/blob/master/Assets/tableStructure.png)
+
 ## Requirements
 
 - XAMPP
@@ -21,25 +25,6 @@ This is a simple login and registration page using php and mysql.
 - Import `login.sql` file in the database
 - Open `http://localhost/login/` in the browser
 
-<!-- ## Output
-
-![Login Page]()
-![Registration Page]()
-![Home Page]()
-![Profile Page]()
-![Change Password Page]()
-![Logout Page]() -->
-
-
 ## Author
 
 - [Neeraj Antil](https://www.github.com/antilneeraj)
-
-
-<!-- To Create -->
-
-config.php - configure database
-login.php - allow user to login
-register.php - allows user to register
-welcome.php - if user is unable to login then redirect him to this page
-logout.php - allows user to logout
